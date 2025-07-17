@@ -1,4 +1,3 @@
-
 # ACM 30-Day Machine Learning Challenge – Kilari Vamsika
 # cycle1
 
