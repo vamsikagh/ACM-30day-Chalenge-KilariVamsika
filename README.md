@@ -1,4 +1,7 @@
 # ACM 30-Day Machine Learning Challenge – Kilari Vamsika
+
+Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems using ML, statistics, and analytical tools. This repository is a curated journey through multiple challenge cycles focusing on preprocessing, modeling, and evaluation tasks to build solid data intuition and technical fluency.
+
 # cycle1
 
 ---
@@ -27,6 +30,7 @@
 - `Day3.ipynb` - Classifier Arena
 - `Day4.ipynb` - Tree-Based Models + k-NN + Feature Selection
 - `Day5.ipynb` - 3-Feature Showdown
+- `MAIN CHALLENGE.ipynb` 
 
 ---
 
