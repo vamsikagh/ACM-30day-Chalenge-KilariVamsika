@@ -33,7 +33,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 
 | Day | Task Summary |
 |-----|--------------|
-| **Day 6** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using confusion matrix and classification report. |
+| **Day 6** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using classification report. |
 
 ---
 
