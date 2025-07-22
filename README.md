@@ -23,7 +23,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 - `Day3.ipynb` – Classifier Arena
 - `Day4.ipynb` – Tree-Based Models + k-NN + Feature Selection
 - `Day5.ipynb` – 3-Feature Showdown
-- `MAIN CHALLENGE 1.ipynb` – Medical cost regression project
+- `MAIN_CHALLENGE_1.ipynb` – Medical cost regression project
 
 ---
 
@@ -48,7 +48,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 - `Phase3.ipynb` – 
 - `Phase4.ipynb` – 
 - `Phase5.ipynb` –
-- `MAIN CHALLENGE 2.ipynb` – Medical cost regression project
+- `MAIN_CHALLENGE_2.ipynb` – Medical cost regression project
 
 ---
 
