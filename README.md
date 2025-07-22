@@ -23,7 +23,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 - `Day3.ipynb` – Classifier Arena
 - `Day4.ipynb` – Tree-Based Models + k-NN + Feature Selection
 - `Day5.ipynb` – 3-Feature Showdown
-- `MAIN CHALLENGE.ipynb` – Medical cost regression project
+- `MAIN CHALLENGE 1.ipynb` – Medical cost regression project
 
 ---
 
@@ -33,12 +33,22 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 
 | Day | Task Summary |
 |-----|--------------|
-| **Day 6** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using classification report. |
+| **Phase 1** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using classification report. |
+| **Phase 2** | Implemented SVM classification on the Breast Cancer dataset using Linear, RBF, and Polynomial kernels. Applied outlier removal (IQR), label encoding, feature scaling, and PCA for 2D visualization. Compared models using accuracy and classification reports. |
+| **Phase 3** |  |
+| **Phase 4** |  |
+| **Phase 5** |  |
+
 
 ---
 
 ### 📁 Repository Contents – Cycle 2
-- `Day6.ipynb` – Bagging vs Boosting (Random Forest, AdaBoost, XGBoost)
+- `Phase1.ipynb` – Bagging vs Boosting (Random Forest, AdaBoost, XGBoost)
+- `Phase2.ipynb` – SVM Classification with Linear, RBF, and Polynomial kernels + PCA visualization
+- `Phase3.ipynb` – 
+- `Phase4.ipynb` – 
+- `Phase5.ipynb` –
+- `MAIN CHALLENGE 2.ipynb` – Medical cost regression project
 
 ---
 
