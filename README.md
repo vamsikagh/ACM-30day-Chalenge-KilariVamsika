@@ -35,7 +35,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 |-----|--------------|
 | **Phase 1** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using classification report. |
 | **Phase 2** | Implemented SVM classification on the Breast Cancer dataset using Linear, RBF, and Polynomial kernels. Applied outlier removal (IQR), label encoding, feature scaling, and PCA for 2D visualization. Compared models using accuracy and classification reports. |
-| **Phase 3** |  |
+| **Phase 3** | Applied KMeans clustering on the Iris dataset to uncover hidden groupings in the data. Preprocessing steps included label encoding, outlier removal using IQR, and feature scaling. Principal Component Analysis (PCA) was used to reduce dimensionality and visualize clusters in 2D. The Elbow Method was used to determine the optimal number of clusters. Real-world applications of clustering were also discussed. |
 | **Phase 4** |  |
 | **Phase 5** |  |
 
@@ -45,7 +45,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 ### 📁 Repository Contents – Cycle 2
 - `Phase1.ipynb` – Bagging vs Boosting (Random Forest, AdaBoost, XGBoost)
 - `Phase2.ipynb` – SVM Classification with Linear, RBF, and Polynomial kernels + PCA visualization
-- `Phase3.ipynb` – 
+- `Phase3.ipynb` – Unsupervised Learning (Clusters)
 - `Phase4.ipynb` – 
 - `Phase5.ipynb` –
 - `MAIN_CHALLENGE_2.ipynb` – Medical cost regression project
