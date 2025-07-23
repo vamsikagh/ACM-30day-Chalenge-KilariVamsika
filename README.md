@@ -48,7 +48,7 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 - `Phase3.ipynb` – Unsupervised Learning (Clusters)
 - `Phase4.ipynb` – 
 - `Phase5.ipynb` –
-- `MAIN_CHALLENGE_2.ipynb` – Medical cost regression project
+- `MAIN_CHALLENGE_2.ipynb` – 
 
 ---
 
