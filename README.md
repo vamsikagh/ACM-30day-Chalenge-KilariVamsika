@@ -36,8 +36,9 @@ Hi! I'm Vamsika, a data science enthusiast eager to solve real-world problems us
 | **Phase 1** | Explored ensemble learning with Bagging and Boosting using the Breast Cancer dataset. Trained and compared Random Forest, AdaBoost, and XGBoost classifiers. Accuracy was measured for all models and the best-performing one was highlighted. Label encoding and feature scaling were applied, followed by model evaluation using classification report. |
 | **Phase 2** | Implemented SVM classification on the Breast Cancer dataset using Linear, RBF, and Polynomial kernels. Applied outlier removal (IQR), label encoding, feature scaling, and PCA for 2D visualization. Compared models using accuracy and classification reports. |
 | **Phase 3** | Applied KMeans clustering on the Iris dataset to uncover hidden groupings in the data. Preprocessing steps included label encoding, outlier removal using IQR, and feature scaling. Principal Component Analysis (PCA) was used to reduce dimensionality and visualize clusters in 2D. The Elbow Method was used to determine the optimal number of clusters. Real-world applications of clustering were also discussed. |
-| **Phase 4** |  |
-| **Phase 5** |  |
+| **Phase 4** | Performed dimensionality reduction on the 20 Newsgroups dataset using TF-IDF followed by Truncated SVD. The high-dimensional TF-IDF matrix was reduced to two components to visualize document similarity. A scatter plot was generated to show separability of newsgroups. Optionally applied KMeans clustering with 20 clusters, and evaluated grouping performance using silhouette score and visual comparison to true labels. |
+| **Phase 5** | Explored model validation techniques using the Breast Cancer dataset. Random Forest was chosen to demonstrate K-Fold Cross-Validation and the bias-variance trade-off. Learning curves were plotted to analyze training vs validation accuracy across varying dataset sizes, enabling identification of overfitting or underfitting behaviors. |
+| **Main Challenge** |  |
 
 
 ---
